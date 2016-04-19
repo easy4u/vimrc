@@ -101,3 +101,4 @@ set cursorline
 au BufRead,BufNewFile logcat.log* set filetype=logril
 au BufRead,BufNewFile aplog* set filetype=logril
 au BufRead,BufNewFile logcat-ril.log* set filetype=logril
+au BufRead,BufNewFile *.log* set filetype=logril
